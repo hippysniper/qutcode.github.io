@@ -1,0 +1,4 @@
+# permalink config
+"pages" :
+  "permalink" : "/:relative_path/:filename"
+
